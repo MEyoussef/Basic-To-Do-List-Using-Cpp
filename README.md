@@ -1,8 +1,8 @@
-# Basic-To-Do-List-Using-Cpp
+# To-Do-List-Using-Cpp
 
 /*
 
-    This code snippet is a C++ program that implements a basic to-do list application. It allows the user to perform various operations on a text file, such as adding, updating, and deleting tasks.
+    This code snippet is a C++ program that implements a to-do list application. It allows the user to perform various operations on a text file, such as adding, updating, and deleting tasks.
 
     Here's a high-level overview of the code:
 
